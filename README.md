@@ -1,4 +1,4 @@
-<h1 align="center">RIL Notes Application</h1>
+<h1 align="center">RIL Stocks Application</h1>
 
 <h2 align="center">
 RIL Stocks is a Finance application.
